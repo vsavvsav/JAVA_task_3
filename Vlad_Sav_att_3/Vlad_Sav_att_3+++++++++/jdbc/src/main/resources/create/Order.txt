@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS Order (
+id INT PRIMARY KEY,
+cost INT,
+deliveryServiceId INT
+);

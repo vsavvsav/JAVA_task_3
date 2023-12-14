@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS Commission (
+id INT PRIMARY KEY,
+cost INT,
+deliveryServiceId INT
+);

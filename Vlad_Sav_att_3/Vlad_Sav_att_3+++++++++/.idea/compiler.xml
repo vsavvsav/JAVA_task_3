@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="Vlad_att_1.web_servlets_module.main" />
+        <module name="Vlad_att_1.console_processor.main" />
+        <module name="Vlad_att_1.model.main" />
+        <module name="Vlad_att_1.driver.main" />
+        <module name="Vlad_att_1.generator.main" />
+        <module name="Vlad_att_1.jdbc.main" />
+        <module name="Vlad_att_1.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="18" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="test_project.main" options="--add-exports java.xml/jdk.xml.internal=ALL-UNNAMED" />
+    </option>
+  </component>
+</project>

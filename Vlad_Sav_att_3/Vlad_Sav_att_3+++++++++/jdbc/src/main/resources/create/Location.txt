@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS Location (
+country VARCHAR(256),
+city VARCHAR(256),
+street VARCHAR(256),
+house VARCHAR(256),
+otherId INT
+);

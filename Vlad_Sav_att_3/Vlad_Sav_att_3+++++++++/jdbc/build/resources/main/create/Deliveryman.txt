@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS Deliveryman (
+id INT PRIMARY KEY,
+fio VARCHAR(256),
+deliveryServiceId INT,
+orderId INT
+);

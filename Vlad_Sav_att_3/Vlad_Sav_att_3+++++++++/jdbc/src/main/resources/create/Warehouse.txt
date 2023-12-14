@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS Warehouse (
+id INT PRIMARY KEY,
+deliveryServiceId INT
+);

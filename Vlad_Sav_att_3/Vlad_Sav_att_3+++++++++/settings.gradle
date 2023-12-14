@@ -1,0 +1,8 @@
+rootProject.name = 'Vlad_att_1'
+include 'generator'
+include 'model'
+include 'jdbc'
+include 'driver'
+include 'console_processor'
+include 'web_servlets_module'
+
